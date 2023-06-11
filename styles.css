@@ -64,3 +64,12 @@ ul{
       background-color: lightblue;
     }
   }
+  code{
+    background-color: lightgray;
+    margin: 10px;
+    padding: 10px;
+    overflow: auto;
+    font-size: 120%;
+    display: block;
+
+  }
